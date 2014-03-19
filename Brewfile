@@ -7,6 +7,7 @@ install brew-cask || true
 
 # Install
 install python
+linkapps
 install ansible
 
 # Install from Cask
