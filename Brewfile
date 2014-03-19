@@ -9,9 +9,11 @@ install brew-cask || true
 install python
 linkapps
 install ansible
+install ant
 
 # Install from Cask
 cask install virtualbox
 cask install vagrant
 cask install google-chrome
 cask install skype
+cask install sourcetree
