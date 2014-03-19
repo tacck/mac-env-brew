@@ -17,3 +17,4 @@ cask install vagrant
 cask install google-chrome
 cask install skype
 cask install sourcetree
+cask install thunderbird
