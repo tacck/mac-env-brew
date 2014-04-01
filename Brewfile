@@ -5,6 +5,9 @@ update
 tap phinze/cask || true
 install brew-cask || true
 
+# Tap Caskroom Versions
+tap caskroom/versions || true
+
 # Install
 install python
 linkapps
@@ -17,4 +20,7 @@ cask install vagrant
 cask install google-chrome
 cask install skype
 cask install sourcetree
-cask install thunderbird
+
+# Install from Caskroom Versions
+cask install thunderbird-ja
+cask install macvim-kaoriya
