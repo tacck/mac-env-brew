@@ -1,6 +1,9 @@
 # update
 update
 
+# upgrade
+upgrade
+
 # Tap Homebrew Cask
 tap phinze/cask || true
 install brew-cask || true
