@@ -23,6 +23,7 @@ cask install vagrant
 cask install google-chrome
 cask install skype
 cask install sourcetree
+cask install owncloud
 
 # Install from Caskroom Versions
 cask install thunderbird-ja
