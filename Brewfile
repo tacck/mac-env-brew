@@ -24,6 +24,8 @@ cask install google-chrome
 cask install skype
 cask install sourcetree
 cask install owncloud
+cask install butter
+cask install haroopad
 
 # Install from Caskroom Versions
 cask install thunderbird-ja
